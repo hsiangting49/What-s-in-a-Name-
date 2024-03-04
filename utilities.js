@@ -1,3 +1,4 @@
+
 const namelist = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'];
 
 function getRandomName() {
